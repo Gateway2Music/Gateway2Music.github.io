@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #footer-cta h2 {
 	color: white;
-	background-image: url('/developer-challenge-portfolio/assets/images/Gateway2Music\ -\ Twitch\ Banner.jpg');
+	background-image: url('../../assets/images/Gateway2Music\ -\ Twitch\ Banner.jpg');
 	height: 100vh;
 	background-repeat: no-repeat;
 }
